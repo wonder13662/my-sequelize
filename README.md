@@ -1,0 +1,2 @@
+# my-sequelize
+Sequelize playground
