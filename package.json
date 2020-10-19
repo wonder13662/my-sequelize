@@ -1,0 +1,25 @@
+{
+  "name": "my-sequelize",
+  "version": "1.0.0",
+  "description": "Sequelize playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonder13662/my-sequelize.git"
+  },
+  "author": "Wonder Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonder13662/my-sequelize/issues"
+  },
+  "homepage": "https://github.com/wonder13662/my-sequelize#readme",
+  "dependencies": {
+    "pg": "^8.4.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5",
+    "sqlite3": "^5.0.0"
+  }
+}
